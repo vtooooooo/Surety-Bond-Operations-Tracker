@@ -1,7 +1,3 @@
-Here's your README content — ready to copy and paste:
-
----
-
 # Surety Bond Operations Tracker
 
 **Tools:** Microsoft Excel (Advanced) | Formulas & Functions | Data Validation | Conditional Formatting | Dashboard Design
@@ -102,7 +98,3 @@ This tracker addresses those operational challenges through a centralized, formu
 4. The **Summary Dashboard** updates automatically — no manual entry required
 5. Use the **Renewal Bill Checker** by entering bill figures in the yellow cells
 6. Log all incoming emails in the **Email Inbox Log** as they arrive
-
----
-
-*Built by Darshan | MS Data Science, University of New Haven | Graduating May 2026*
